@@ -1,4 +1,4 @@
-# Hi, I'm Neo 👋
+# Hi, I'm Neo 
 
 **IT Technician | Network & IT Support** · Boksburg, Gauteng, South Africa
 
@@ -14,7 +14,7 @@ Outside work I build and document labs, so I can show what I can actually do, no
 - **Next labs:** H3C routing and switching: VLANs, trunking, inter-VLAN routing, static routing and OSPF
 - **Studying:** Cisco CCNA
 
-### 📂 Labs
+###  Labs
 
 | Repo | What's inside |
 | --- | --- |
@@ -22,13 +22,13 @@ Outside work I build and document labs, so I can show what I can actually do, no
 
 Every lab follows the same format: **issue → troubleshooting steps → fix → confirmed result.**
 
-### 🛠️ Skills
+###  Skills
 
 **Networking:** TCP/IP · subnetting · VLANs · 802.1Q trunking · inter-VLAN routing · static routing · OSPF · DHCP · DNS
 **Physical:** Cat6A cabling (Molex standards) · RJ45 termination · patch panels · cable testing and labelling · fibre route work
 **Windows:** Windows 10/11 · Windows Server 2019/2022 · Active Directory · Group Policy · NTFS permissions · Entra ID
 **Tools:** VirtualBox · PNETLab · H3C Comware · Event Viewer · GitHub
 
-### 📫 Contact
+###  Contact
 
 [LinkedIn](https://www.linkedin.com/in/neo-kale-2294b8242/) · neokale10@gmail.com
