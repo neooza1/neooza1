@@ -31,4 +31,4 @@ Every lab follows the same format: **issue → troubleshooting steps → fix →
 
 ###  Contact
 
-[LinkedIn](https://www.linkedin.com/in/neo-kale-2294b8242/) · neokale10@gmail.com
+[LinkedIn](https://www.linkedin.com/in/neokale/) · neokale10@gmail.com
